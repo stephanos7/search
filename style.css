@@ -1,0 +1,34 @@
+* {
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+}
+
+.wrapper {
+  background-color: lightgray;
+  max-width: 900px; 
+  margin: 0 auto; 
+  min-height: 100vh;
+  padding: 100px 20px;
+}
+.search-bar {
+  display: inline-block;
+  width: 100%;
+  height: 50px;
+  padding: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid black;
+}
+.stage {
+  width: 100%;
+  height: 50px;
+  color: lightgray;
+  background-color: lightgoldenrodyellow;
+  /*margin: 50px 0;*/
+}
+.xy{
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  position: absolute;
+}
